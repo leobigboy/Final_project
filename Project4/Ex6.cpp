@@ -13,6 +13,7 @@ struct Node {
 };
 
 // --- Các biến và hàm trợ giúp ---
+// Các biến này được dùng chung trong quá trình tính toán
 vector<Node*> nodes1, nodes2;
 vector<int> l1, l2; // Mảng lưu chỉ số lá trái nhất
 
